@@ -1,0 +1,8 @@
+enter C-c C-h
+M(esc)-x whit tab c tab enter
+down * 2
+C-Spc down * 2 C-w
+(del down) * 2 down C-y
+C-r e enter right " "
+C-s k enter " "
+right * 2 tab
